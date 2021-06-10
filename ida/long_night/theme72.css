@@ -599,6 +599,7 @@ CustomIDAMemo
     qproperty-graph-edge-no: #F07178;
     qproperty-graph-edge-current: #FF5370;
     qproperty-line-bg-highlight: #3b53a8;
+    qproperty-line-bgovl-extra-1: #162b18;
 }
 
 CustomIDAMemo[debugging="true"]
@@ -661,6 +662,7 @@ CustomIDAMemo[debugging="true"]
     qproperty-graph-edge-no: #F07178;
     qproperty-graph-edge-current: #FF5370;
     qproperty-line-bg-highlight: #3b53a8;
+    qproperty-line-bgovl-extra-1: #162b18;
 }
 
 CustomIDAMemo[hints="true"]
@@ -723,6 +725,7 @@ CustomIDAMemo[hints="true"]
     qproperty-graph-edge-no: #F07178;
     qproperty-graph-edge-current: #FF5370;
     qproperty-line-bg-highlight: #3b53a8;
+    qproperty-line-bgovl-extra-1: #162b18;
 }
 
 MainMsgList
