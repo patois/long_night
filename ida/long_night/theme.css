@@ -600,7 +600,9 @@ CustomIDAMemo
     qproperty-graph-edge-current: #FF5370;
     qproperty-line-bg-highlight: #353535;
     qproperty-line-bgovl-current-line: #2a2a2a;
-    qproperty-line-bgovl-extra-1: #434659;
+    qproperty-line-bgovl-extra-1: #1e1d1b;
+    qproperty-line-bgovl-extra-2: #00374c;
+    qproperty-line-bgovl-extra-3: #004a55;
 }
 
 CustomIDAMemo[debugging="true"]
