@@ -599,15 +599,14 @@ CustomIDAMemo
     qproperty-graph-edge-no: #F07178;
     qproperty-graph-edge-current: #FF5370;
     qproperty-line-bg-highlight: #353535;
-    qproperty-line-bgovl-current-line: #2a2a2a;
-    qproperty-line-bgovl-extra-1: #1e1d1b;
-    qproperty-line-bgovl-extra-2: #00374c;
-    qproperty-line-bgovl-extra-3: #004a55;
+    qproperty-line-bgovl-current-line: rgba(88, 88, 88, 0.2);
+    qproperty-line-bgovl-extra-1: rgba(88, 88, 88, 0.2);
+    qproperty-line-bgovl-extra-2: rgb(22, 91, 70, 1.0);
 }
 
 CustomIDAMemo[debugging="true"]
 {
-    qproperty-line-bgovl-current-ip: #0085ad;
+    qproperty-line-bgovl-current-ip: rgba(0, 133, 173, 0.2);
 }
 
 CustomIDAMemo[hints="true"]
