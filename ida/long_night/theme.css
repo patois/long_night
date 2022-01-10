@@ -601,7 +601,7 @@ CustomIDAMemo
     qproperty-line-bg-highlight: #353535;
     qproperty-line-bgovl-current-line: rgba(88, 88, 88, 0.2);
     qproperty-line-bgovl-extra-1: rgba(88, 88, 88, 0.2);
-    qproperty-line-bgovl-extra-2: rgb(22, 91, 70, 1.0);
+    qproperty-line-bgovl-extra-2: rgba(22, 91, 70, 1.0);
 }
 
 CustomIDAMemo[debugging="true"]
