@@ -602,6 +602,9 @@ CustomIDAMemo
     qproperty-line-bgovl-current-line: rgba(88, 88, 88, 0.2);
     qproperty-line-bgovl-extra-1: rgba(88, 88, 88, 0.2);
     qproperty-line-bgovl-extra-2: rgba(22, 91, 70, 1.0);
+    qproperty-line-bgovl-extra-3: rgba(255, 0, 136, 0.5);
+    qproperty-line-bgovl-extra-4: rgba(109, 180, 218, 0.23);
+
 }
 
 CustomIDAMemo[debugging="true"]
