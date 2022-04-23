@@ -572,7 +572,7 @@ CustomIDAMemo
     qproperty-line-fg-numlit-in-data: #E9B08E;
     qproperty-line-fg-keyword: #F07178;
     qproperty-line-fg-register-name: #D1B8D4;
-    qproperty-line-fg-import-name: #93AFCF;
+    qproperty-line-fg-import-name: #c691cf;
     qproperty-line-fg-segment-name: #D1B8D4;
     qproperty-line-fg-dummy-unknown-name: #D1B8D4;
     qproperty-line-fg-code-name: #AAA99F;
@@ -598,7 +598,7 @@ CustomIDAMemo
     qproperty-graph-edge-yes: #B5D1B0;
     qproperty-graph-edge-no: #F07178;
     qproperty-graph-edge-current: #FF5370;
-    qproperty-line-bg-highlight: #353535;
+    qproperty-line-bg-highlight: #0D504D;
     qproperty-line-bgovl-current-line: rgba(88, 88, 88, 0.2);
     qproperty-line-bgovl-extra-1: rgba(88, 88, 88, 0.2);
     qproperty-line-bgovl-extra-2: rgba(22, 91, 70, 1.0);
